@@ -19,5 +19,5 @@
 | Q3 | [C file](<PF ASSIGNMENT 01/Section B Q3 (C file).c>) | [Pseudocode](<PF ASSIGNMENT 01/Section B Q3 Pseudo Code.jpeg>) |
 | Q4 | [C file](<PF ASSIGNMENT 01/Section B Q4 (C file).c>) | [Pseudocode](<PF ASSIGNMENT 01/Section B Q4 Pseudo Code.jpeg>) |
 | Q5 | [C file](<PF ASSIGNMENT 01/Section B Q5 (C file).c>) | - |
-
+| Q6 | [C file](<PF ASSIGNMENT 01/Section B Q6 (C file).c>) |
 ```
