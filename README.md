@@ -2,8 +2,8 @@
 # PF Assignment 01
 
 **Course:** CS-1002 Programming Fundamentals
-**Name:** YOUR NAME HERE
-**Roll No:** YOUR ROLL NO HERE
+**Name:** MUHAMMAD IBRAHEEM RIAZ
+**Roll No:** 26K - 0009
 
 ## Section A
 - [Section A Q 1,2](<PF ASSIGNMENT 01/Section A Q 1,2.jpeg>)
